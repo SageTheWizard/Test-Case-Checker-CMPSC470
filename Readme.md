@@ -1,4 +1,4 @@
-<pre>
+
 #Test Case Checker - CMPSC470: SemanticChecker
 Checks your program's output against the given test outputs
 ##Set up
