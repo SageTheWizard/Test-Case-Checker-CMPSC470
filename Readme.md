@@ -15,4 +15,9 @@ EXPECT... </br>
 RECIEVED... </br>
 [what your program outputted] </br>
 ## Note
-If any future semester people find this it should be fine to use contact me some how some way and I can update it if need be
+If any future semester people find this it should be fine to use contact me some how some way and I can update it if need be </br>
+So, For this to work w/ HW1, you will need to restructure the folders in the following way </br>
+[path to folder]/sample/minc (minc files go here) </br>
+[path to folder]/sample/output (output files go here) </br>
+[path to folder]/src/  (java and checker.sh) </br>
+I'll update this as I'm made aware of the new homeworks
